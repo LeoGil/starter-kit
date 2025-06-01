@@ -32,7 +32,7 @@
             <!-- Profile Content -->
             <div class="flex-1">
                 <div
-                    class="bg-white dark:bg-gray-800 rounded-lg shadow-sm border border-gray-200 dark:border-gray-700 overflow-hidden mb-6">
+                    class="bg-white dark:bg-gray-950 rounded-lg shadow-sm border border-gray-200 dark:border-gray-700 overflow-hidden mb-6">
                     <div class="p-6">
                         <!-- Profile Form -->
                         <div class="mb-4">

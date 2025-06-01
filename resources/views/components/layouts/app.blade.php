@@ -57,7 +57,7 @@
             <x-layouts.app.sidebar />
 
             <!-- Main Content -->
-            <main class="flex-1 overflow-auto bg-gray-100 dark:bg-gray-900 content-transition">
+            <main class="flex-1 overflow-auto bg-gray-100 dark:bg-neutral-950 content-transition">
                 <div class="p-6">
                     <!-- Success Message -->
                     @session('status')
